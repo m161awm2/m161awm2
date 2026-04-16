@@ -1,8 +1,34 @@
-# 안녕하세요,
-[구본무](http://m161awm.kr)입니다.
+# Hi there, I'm m161awm2
 
-## Github stats
+---
 
-![](https://vercel.app)
+### Tech Stack
 
-![](https://vercel.app)
+**Cloud & Infrastructure**
+<p>
+  <img src="https://shields.io">
+  <img src="https://shields.io">
+  <img src="https://shields.io">
+  <img src="https://shields.io">
+</p>
+
+**Languages & Tools**
+<p>
+  <img src="https://shields.io">
+  <img src="https://shields.io">
+  <img src="https://shields.io">
+  <img src="https://shields.io">
+</p>
+
+---
+
+### GitHub Activity
+
+![GitHub Activity Graph](https://vercel.app)
+
+---
+
+### Contact & Stats
+<p align="left">
+  <img src="https://seeyoufarm.com">
+</p>
