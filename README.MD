@@ -3,6 +3,6 @@
 
 ## Github stats
 
-![GitHub stats](https://vercel.app)
+![](https://vercel.app)
 
-[![Top Langs](https://vercel.app)](https://github.com)
+![](https://vercel.app)
