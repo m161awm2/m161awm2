@@ -1,7 +1,7 @@
 <table border="0" align="center">
   <tr>
     <td width="45%" align="center">
-      <img src="./coding.gif" width="100%" style="background-color: transparent;" />
+      <img src="./coding2.gif" width="100%" style="background-color: transparent;" />
     </td>
     <td width="55%">
       <h2 align="center">Hi there, I'm m161awm2</h2>
