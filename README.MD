@@ -60,7 +60,6 @@
 ## 📚 Currently Learning
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
 ![GitOps](https://img.shields.io/badge/GitOps-181717?style=flat-square\&logo=git\&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square\&logo=argo\&logoColor=white)
 
