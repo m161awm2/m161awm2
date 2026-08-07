@@ -1,7 +1,7 @@
 <table border="0" align="center">
   <tr>
     <td width="45%" align="center">
-      <img src="./coding2.gif" width="50%" style="background-color: transparent;" />
+      <img src="./testGif.gif" width="50%" style="background-color: transparent;" />
     </td>
     <td width="55%">
       <h2 align="center">Hi there, I'm m161awm2</h2>
@@ -23,7 +23,7 @@
 </table>
 
 <details open>
-<summary><h3>🚀 Tech Journey</h3></summary>
+<summary><h3>Tech Journey</h3></summary>
 
 <br/>
 
@@ -80,7 +80,7 @@
 
 ---
 
-## 🛠️ Focus Areas
+## Focus Areas
 
 > AWS private subnet deployment
 > Docker-based CI/CD
@@ -98,7 +98,6 @@
 
 <br/><br/>
 
-*Building, breaking, and learning cloud infrastructure.*
 
 </div>
 
