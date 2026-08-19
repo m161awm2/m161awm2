@@ -68,17 +68,15 @@
 <td width="50%" valign="top" align="center">
 
 ## 📊 GitHub Activity
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m161awm2&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=m161awm2&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m161awm2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=m161awm2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="100%" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=m161awm2&theme=github-compact&hide_border=true" width="100%" />
-
 ---
 
 ## Focus Areas
