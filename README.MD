@@ -4,7 +4,7 @@
       <img src="./testGif.gif" width="70%" style="background-color: transparent;" />
     </td>
     <td width="60%" valign="top">
-      <h2 align="center">Kubonmu</h2>
+      <h2 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Kubonmu%20DevOps&fontSize=40&animation=fadeIn" width="100%" /></h2>
       <h3 align="center">Learning DevOps / Cloud</h3>
       <p align="center">
         <a href="https://m161awm.kr">
@@ -15,7 +15,6 @@
         </a>
       </p>
       <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Kubonmu%20DevOps&fontSize=40&animation=fadeIn" width="100%" />
       </p>
     </td>
   </tr>
