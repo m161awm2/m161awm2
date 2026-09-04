@@ -19,3 +19,8 @@
     </td>
   </tr>
 </table>
+
+### Open Source Contributions
+
+- **[krkn-chaos/krkn-hub](https://github.com/krkn-chaos/krkn-hub)** — `krknctl` was missing two existing node-scenario options; added `VERIFY_SESSION` and `SKIP_OPENSHIFT_CHECKS` with validated mappings in [PR #391](https://github.com/krkn-chaos/krkn-hub/pull/391) (merged).
+- **[n8n-io/terraform-aws-n8n](https://github.com/n8n-io/terraform-aws-n8n)** — the module only set the legacy `WEBHOOK_URL`; added `N8N_WEBHOOK_URL`, collision validation, and a regression test in [PR #121](https://github.com/n8n-io/terraform-aws-n8n/pull/121) (merged).
