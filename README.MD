@@ -15,7 +15,7 @@
         </a>
       </p>
       <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=m161awm2&theme=dracula&no-frame=true&margin-w=4" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Kubonmu%20DevOps&fontSize=40&animation=fadeIn" width="100%" />
       </p>
     </td>
   </tr>
