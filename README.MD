@@ -15,7 +15,7 @@
         </a>
       </p>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=m161awm2&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=m161awm2&theme=dracula&hide_border=true" width="100%" />
       </p>
     </td>
   </tr>
