@@ -5,7 +5,7 @@
     </td>
     <td width="55%">
       <h2 align="center">Kubonmu</h2>
-      <h3 align="center">Leaning DevOps / Cloud</h3>
+      <h3 align="center">Learning DevOps / Cloud</h3>
       <p align="center">
         <a href="https://m161awm.kr">
           <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />
