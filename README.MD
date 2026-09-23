@@ -20,11 +20,4 @@
   </tr>
 </table>
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=m161awm2&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/m161awm2"
-    width="1000"
-    height="120"
-  />
-</a>
   
